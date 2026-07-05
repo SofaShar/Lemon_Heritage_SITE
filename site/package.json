@@ -2,7 +2,7 @@
   "name": "aegean-lemon-heritage",
   "private": true,
   "version": "0.1.0",
-  "homepage": "http://f1tikal.github.io/Lemon_Heritage_SITE/",
+  "homepage": "http://SofaShar.github.io/Lemon_Heritage_SITE/",
   "type": "module",
   "scripts": {
     "dev": "vite",
