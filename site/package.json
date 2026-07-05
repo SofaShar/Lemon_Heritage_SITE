@@ -2,11 +2,14 @@
   "name": "aegean-lemon-heritage",
   "private": true,
   "version": "0.1.0",
+  "homepage": "http://SofaShar.github.io/Lemon_Heritage_SITE/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^6.0.2",
